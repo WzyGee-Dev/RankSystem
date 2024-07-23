@@ -1,0 +1,8 @@
+--- # Manifiesto Poggit-CI. Abra el CI en https://poggit.pmmp.io/ci/WzyGee-Dev/RankSystem
+compilación predeterminada: true
+ramas:
+-principal
+Proyectos:
+ Sistema de rangos:
+ Ruta: ""
+... 

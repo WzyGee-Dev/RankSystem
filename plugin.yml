@@ -1,0 +1,22 @@
+name: RankMultiple
+author: WzyGee-Dev
+main: RankSystem\Loader
+api: 5.0.0
+version: 1.0
+website: https://github.com/WzyGee-Dev
+
+commands:
+  createrank:
+    permission: create.command.permissions
+  editrank:
+    permission: edit.command.permissions
+  setrank:
+    permission: set.command.permissions
+
+permissions:
+  create.command.permissions:
+    default: true
+  edit.command.permissions:
+    default: true
+  set.command.permissions:
+    default: true
